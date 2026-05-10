@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mathew Idemudia 👋</h1>
 
 <p align="center">
-  <b>IT Support Professional & Full-Stack Developer</b><br/>
+  <b>Full-Stack Developer | IT Support & Helpdesk Professional</b><br/>
   Oshawa, ON, Canada &nbsp;|&nbsp; Open to relocation across Canada
 </p>
 
