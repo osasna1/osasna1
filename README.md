@@ -19,8 +19,7 @@ Full-Stack Developer and IT Support Professional with **8+ years of experience**
 
 I built and launched **FreshCart Market** — a live grocery delivery app on the **Apple App Store** and **Google Play** (React Native, Supabase, Stripe), and **Premium Bank** — a full-stack banking web app (React, Node.js, PostgreSQL). On the IT side, I maintain a fully configured **Active Directory Home Lab** with Windows Server 2022, Group Policy, domain users, and a domain-joined Windows 10 client.
 
-Currently seeking **Junior Developer**, **IT Support / Helpdesk**, and **Systems Administrator** roles across Canada. Open to relocation.
-
+Currently seeking **Junior Developer**, **IT Support / Helpdesk**, **Help Desk Technician**, and **Systems Administrator** roles across Canada. Open to relocation.
 ---
 
 ## 🛠️ Tech Stack
